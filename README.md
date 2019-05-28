@@ -1,2 +1,2 @@
-# hu_src
-mahjong Algorithm
+# check_hu
+mahjong check_hu algorithm
